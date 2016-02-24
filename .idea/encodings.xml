@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/libs/android-support-v4.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/drawable-hdpi/arrow_right.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/drawable-hdpi/icon_voice.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/layout/layout_slide.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/layout/layout_slide_item.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/layout/main.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/values/strings.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/luomo/demo/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/luomo/demo/adapter/LViewPagerAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/luomo/demo/view/LazyViewPager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/luomo/demo/view/SlideShowView.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
